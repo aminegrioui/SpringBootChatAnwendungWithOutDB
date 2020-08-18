@@ -27,6 +27,6 @@
            
            docker run -p 9190:8080 javaamine/chatanwendung
            
-      in your Browser :  http://localhost:9091/
+      in your Browser :  http://localhost:8080/
 					 
 					 
